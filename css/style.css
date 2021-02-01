@@ -37,25 +37,25 @@ clip-path: polygon(0 0, 100% 0,100% 100%,70% 87%,0 100%);
 }
 @media (min-width:576px)
 {.container{
-	max-width: 576px;
+	max-width: 546px;
 
 }
 }
 @media (min-width:768px)
 {.container{
-	max-width: 768px;
+	max-width: 738px;
 }
 	
 }
 @media (min-width:992px)
 {.container{
-	max-width: 992px;
+	max-width: 962px;
 }
 	
 }
 @media (min-width:1200px)
 {.container{
-	max-width: 1200px;
+	max-width: 1170px;
 }
 .branding {
 	width: 100px;
